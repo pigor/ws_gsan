@@ -1,2 +1,2 @@
-- Paulo Igor
+- P. Igor
 - Eder Braga
