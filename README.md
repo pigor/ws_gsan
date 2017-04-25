@@ -1,2 +1,3 @@
 - P. Igor
 - Eder Braga
+- Diego
